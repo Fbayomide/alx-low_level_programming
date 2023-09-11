@@ -3,7 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - Prints the last digit of a randomly generated number and confirm if it meets the required condition in the code.
+ * main - Prints the last digit of a randomly generated number 
+ *        and confirm if it meets the required condition in the code.
  *
  * Return: Always 0.
  */
